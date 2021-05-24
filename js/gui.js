@@ -26,6 +26,7 @@ function init() {
     renderer.setSize(window.innerWidth, window.innerHeight);
     document.body.appendChild(renderer.domElement);
 
+    //Pixel attempt
     // scene = new THREE.Scene();
 
     // const geometries = [
